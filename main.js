@@ -19,4 +19,5 @@ function aumentaTamanho() {
         tamanhoSenha++;
     }
     numeroSenha.textContent = tamanhoSenha;
-    geraSenha()
+    geraSenha();
+}
